@@ -1,5 +1,7 @@
+# Taller 1
+
 Introduccion a dart, implementando la funcion basica, solicitar datos por consola, tipos de variables, concatenacion, ciclos basicos y objetos
-*Desarrollar los siguientes ejercicios en Dart*
+**Desarrollar los siguientes ejercicios en Dart**
 
 1. Sumar dos números.
 2. Calcular la distancia recorrida por un carro.
