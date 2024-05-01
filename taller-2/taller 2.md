@@ -21,5 +21,4 @@
 17. Implementa una función que calcule el área de un rectángulo utilizando la sintaxis de función flecha.
 18. Define una función que tome dos parámetros, donde el segundo tenga un valor por defecto de 1, y calcule la potencia del primer número elevado al segundo.
 19. Crea una función que tome un número como parámetro requerido y verifique si es primo.
-Operadores de asignación:
 20. Desarrolla un programa que calcule el factorial de un número ingresado por el usuario utilizando un bucle for y el operador de asignación *=.
